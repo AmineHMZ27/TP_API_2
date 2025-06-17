@@ -1,0 +1,13 @@
+
+Django==5.2.1
+djangorestframework==3.16.0
+djangorestframework-simplejwt==5.3.1
+kafka-python==2.0.2
+drf-yasg==1.21.10
+django-bootstrap4==25.1
+PyYAML==6.0.2
+pytz==2024.2
+tzdata==2024.2
+packaging==24.1
+inflection==0.5.1
+uritemplate==4.2.0

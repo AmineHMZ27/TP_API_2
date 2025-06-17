@@ -1,0 +1,12 @@
+{
+    "feeds": {
+        "transaction_log": {
+            "description": "Stream containing real-time data",
+            "partitioning": "date"
+        },
+        "transactions_stream02": {
+            "description": "Table containing aggregated data",
+            "partitioning": "date"
+        }
+    }
+}

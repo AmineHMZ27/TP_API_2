@@ -1,0 +1,26 @@
+[
+  {
+    "PAYMENT_METHOD": "apple_pay",
+    "TOTAL_AMOUNT": 100891.00999999995
+  },
+  {
+    "PAYMENT_METHOD": "bank_transfer",
+    "TOTAL_AMOUNT": 121714.78000000001
+  },
+  {
+    "PAYMENT_METHOD": "credit_card",
+    "TOTAL_AMOUNT": 106633.48
+  },
+  {
+    "PAYMENT_METHOD": "cryptocurrency",
+    "TOTAL_AMOUNT": 109529.8
+  },
+  {
+    "PAYMENT_METHOD": "google_pay",
+    "TOTAL_AMOUNT": 103846.34000000001
+  },
+  {
+    "PAYMENT_METHOD": "paypal",
+    "TOTAL_AMOUNT": 116573.82999999994
+  }
+]

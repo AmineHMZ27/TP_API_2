@@ -1,0 +1,18 @@
+[
+  {
+    "TRANSACTION_TYPE": "payment",
+    "MOYEN": 839.5454166666664
+  },
+  {
+    "TRANSACTION_TYPE": "purchase",
+    "MOYEN": 847.560444444444
+  },
+  {
+    "TRANSACTION_TYPE": "refund",
+    "MOYEN": 843.9051546391753
+  },
+  {
+    "TRANSACTION_TYPE": "withdrawal",
+    "MOYEN": 860.2113793103446
+  }
+]

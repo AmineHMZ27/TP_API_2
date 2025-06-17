@@ -1,0 +1,2977 @@
+[
+  {
+    "USER_ID_MASKED": "XXXX-1024",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 5.57256
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1057",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 813.13
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1068",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 931.436
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1071",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 1263.951
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1076",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 739.6725000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1089",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 136.3718
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1112",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 4.34987
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1147",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 109.5675
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1153",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 565.653
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1171",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 0.15547
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1172",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 227.94
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1190",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 367.146
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1207",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 1102.153
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1213",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 581.08
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1219",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 678.3149999999999
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1237",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 644.17
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1238",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 197.78
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1254",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 577.17
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1275",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 5.50382
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1296",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 3.2818799999999997
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1298",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 332.4
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1301",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 431.535
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1318",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 347.88
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1326",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 324.6825
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1326",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 287.07
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1326",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 45.091
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1350",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 271.72200000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1351",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 123.09
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1355",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 107.12
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1362",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 158.7565
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1407",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 0.4431
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1408",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 516.659
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1434",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 67.408
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1455",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 282.788
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1467",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 495.099
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1473",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 937.1
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1474",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 0.25459
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1480",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 465.2175
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1482",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 622.605
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1491",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 950.4000000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1497",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 203.69800000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1499",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 312.741
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1501",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 523.419
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1505",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 868.879
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1524",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 3.92903
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1551",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 1.87565
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1567",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 378.91100000000006
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1586",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 605.826
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1608",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 545.3867
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1655",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 482.70820000000003
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1658",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 676.0275
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1663",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 84.645
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1669",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 4.01891
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1683",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 5.38132
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1684",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 442.98
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1716",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 453.75
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1716",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 445.28870000000006
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1740",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 674.84
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1752",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 7.738500000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1788",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 642.4110000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1801",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 438.94
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1803",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 90.48
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1815",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 536.6270000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1820",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 1294.54
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1821",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 464.52440000000007
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1866",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 542.5258
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1867",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 142.9914
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1874",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 783.057
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1891",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 409.28
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1944",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 1034.28
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1945",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 365.35200000000003
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1977",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 1233.778
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1982",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 571.79
+  },
+  {
+    "USER_ID_MASKED": "XXXX-1995",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 836.33
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2036",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 3.85448
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2048",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 240.59250000000003
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2073",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 310.16700000000003
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2081",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 1015.2740000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2123",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 900.966
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2124",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 77.6061
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2126",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 417.22
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2157",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 728.7975
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2174",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 513.929
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2197",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 2.63109
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2198",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 3.8121300000000002
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2217",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 731.666
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2229",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 495.891
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2238",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 755.7420000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2250",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 883.1160000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2258",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 466.16900000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2278",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 187.91
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2283",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 0.9912
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2284",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 3.2157299999999998
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2288",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 703.5600000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2301",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 528.931
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2301",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 213.34810000000002
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2318",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 294.69
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2366",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 1062.8090000000002
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2372",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 603.4623
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2420",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 507.21
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2431",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 389.7
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2471",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 962.351
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2493",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 1043.692
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2502",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 134.4375
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2508",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 209.1225
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2529",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 669.548
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2536",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 77.2309
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2547",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 641.0225
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2563",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 191.08
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2612",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 4.964189999999999
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2616",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 46.9871
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2619",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 535.018
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2654",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 40.084
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2671",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 635.37
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2704",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 136.1175
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2728",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 253.044
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2788",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 892.827
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2797",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 37.545
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2802",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 256.065
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2805",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 669.1491000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2848",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 391.5212
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2849",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 540.82
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2854",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 4.84036
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2880",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 402.7425
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2914",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 430.32599999999996
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2952",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 812.2950000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2957",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 1210.586
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2985",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 3.96284
+  },
+  {
+    "USER_ID_MASKED": "XXXX-2999",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 461.136
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3013",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 609.901
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3029",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 249.53480000000002
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3031",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 39.416000000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3043",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 643.7427
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3046",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 2.05891
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3054",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 294.7125
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3069",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 439.6406
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3075",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 3.3294799999999998
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3076",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 791.99
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3077",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 336.26
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3086",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 800.2
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3101",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 939.47
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3103",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 3.32486
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3106",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 0.47313000000000005
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3109",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 217.02
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3140",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 386.355
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3187",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 237.93000000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3189",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 17.7952
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3201",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 355.1475
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3203",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 271.74
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3207",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 470.08000000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3234",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 494.10900000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3235",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 1046.981
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3241",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 815.6390000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3243",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 28.326999999999998
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3277",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 383.66880000000003
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3295",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 675.2625
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3313",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 334.21500000000003
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3322",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 925.88
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3331",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 310.3507
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3407",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 727.7139999999999
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3411",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 279.60900000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3414",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 338.182
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3450",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 5.72761
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3460",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 33.712500000000006
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3471",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 145.935
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3481",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 922.39
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3483",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 1.03838
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3485",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 475.8525
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3500",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 264.901
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3521",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 354.6042
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3531",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 207.9881
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3531",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 1.8356100000000002
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3559",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 4.31928
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3590",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 150.449
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3622",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 874.16
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3623",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 330.5445
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3625",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 345.8071
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3633",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 248.10500000000005
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3643",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 5.905830000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3657",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 74.20920000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3682",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 56.3939
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3683",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 574.1498
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3706",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 5.330080000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3718",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 982.047
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3742",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 452.6185
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3748",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 2.25799
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3761",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 4.11614
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3762",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 282.183
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3768",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 813.3
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3777",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 5.75323
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3800",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 3.5063700000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3867",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 1087.669
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3876",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 616.33
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3876",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 185.9325
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3878",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 960.344
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3882",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 2.8316399999999997
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3889",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 914.18
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3892",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 223.53750000000002
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3896",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 459.0825
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3896",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 71.8374
+  },
+  {
+    "USER_ID_MASKED": "XXXX-3929",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 295.9575
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4003",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 592.943
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4004",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 623.5725
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4014",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 355.98
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4036",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 344.09700000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4054",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 520.234
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4070",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 6.4148
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4071",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 943.488
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4081",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 463.26750000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4095",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 532.1030000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4118",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 6.23693
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4137",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 128.1975
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4144",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 354.165
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4150",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 99.18010000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4169",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 84.4401
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4172",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 487.422
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4173",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 464.11570000000006
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4174",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 3.26963
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4243",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 365.08
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4251",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 115.15
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4251",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 384.05740000000003
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4258",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 630.7715000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4272",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 575.5836
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4277",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 645.216
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4286",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 129.52
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4301",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 392.3788
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4301",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 264.34180000000003
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4310",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 317.108
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4310",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 484.09
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4325",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 511.38
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4334",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 5.99655
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4380",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 499.74750000000006
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4382",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 734.95
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4388",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 294.79330000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4395",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 457.48269999999997
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4435",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 168.3825
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4470",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 459.75
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4471",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 480.5106
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4471",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 172.931
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4475",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 498.38
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4505",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 497.2425
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4548",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 25.729000000000003
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4565",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 171.699
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4569",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 525.954
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4577",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 27.225
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4589",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 683.46
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4590",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 30.87
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4596",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 51.4761
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4598",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 53.707499999999996
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4609",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 343.51900000000006
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4616",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 507.70500000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4618",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 1141.335
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4625",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 991.13
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4646",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 605.982
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4681",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 416.23
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4688",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 487.33790000000005
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4707",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 579.04
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4719",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 812.955
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4726",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 677.3140000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4728",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 2.8624400000000003
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4734",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 197.50930000000002
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4736",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 3.78098
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4740",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 590.64
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4752",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 201.33749999999998
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4761",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 2.47478
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4770",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 498.75800000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4779",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 6.930630000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4781",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 273.559
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4786",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 378.08
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4797",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 536.91
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4801",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 629.187
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4806",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 808.69
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4833",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 1080.172
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4843",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 115.71300000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4847",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 535.29
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4858",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 193.65009999999998
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4863",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 1132.768
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4864",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 5.82407
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4886",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 460.36
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4907",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 67.60300000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4946",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 835.84
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4960",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 586.63
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4974",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 279.807
+  },
+  {
+    "USER_ID_MASKED": "XXXX-4995",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 225.6761
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5006",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 6.17323
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5013",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 336.9698
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5018",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 918.07
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5025",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 658.788
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5049",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 126.85780000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5053",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 559.2155
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5065",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 295.54
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5079",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 1137.305
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5084",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 1.19112
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5114",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 132.407
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5117",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 5.2134599999999995
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5117",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 527.2
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5118",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 590.27
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5144",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 15.47
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5158",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 515.9175
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5173",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 248.57670000000002
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5187",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 169.76
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5226",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 701.8990000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5266",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 938.45
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5285",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 964.29
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5288",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 511.1899
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5305",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 457.20000000000005
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5312",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 301.75
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5324",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 190.86960000000002
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5327",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 821.72
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5335",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 3.33515
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5340",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 602.745
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5342",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 528.242
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5351",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 357.8671
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5372",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 1075.019
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5384",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 1043.796
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5399",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 1269.008
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5416",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 16.900000000000002
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5422",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 394.966
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5442",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 355.78400000000005
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5464",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 1.82126
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5466",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 876.408
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5474",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 1125.67
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5475",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 413.09999999999997
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5520",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 688.2810000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5527",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 264.8778
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5531",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 2.90514
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5536",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 177.81
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5544",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 307.476
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5548",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 503.6591
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5556",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 5.39042
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5567",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 659.1728
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5577",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 562.9140000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5579",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 626.912
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5583",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 3.14426
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5597",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 418.03499999999997
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5598",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 474.22100000000006
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5631",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 79.1739
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5643",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 460.3168
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5667",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 45.255
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5672",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 698.687
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5674",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 1.33483
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5675",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 293.78
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5690",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 518.5875000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5696",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 641.52
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5721",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 195.02249999999998
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5734",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 209.7301
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5762",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 512.4763
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5772",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 26.664
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5785",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 542.61
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5785",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 0.84672
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5824",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 213.328
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5837",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 403.53
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5845",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 709.2675
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5848",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 202.19100000000003
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5855",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 582.0893
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5922",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 1026.545
+  },
+  {
+    "USER_ID_MASKED": "XXXX-5970",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 309.2
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6052",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 896.89
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6053",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 80.0775
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6069",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 863.4780000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6071",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 625.144
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6079",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 3.08805
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6083",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 964.4440000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6102",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 40.3072
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6129",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 0.8052800000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6139",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 504.79499999999996
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6148",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 248.19
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6200",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 209.6775
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6231",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 925.8040000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6243",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 893.8670000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6244",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 141.44
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6250",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 306.4714
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6262",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 880.561
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6270",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 489.29
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6285",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 1221.194
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6296",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 375.03
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6319",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 1071.707
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6346",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 328.9365
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6387",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 325.05
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6393",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 374.4225
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6396",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 642.6305
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6412",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 328.2531
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6429",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 1094.478
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6431",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 355.75
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6433",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 696.05
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6436",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 761.02
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6483",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 583.6906
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6488",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 392.40500000000003
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6499",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 231.66
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6511",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 102.1575
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6514",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 498.405
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6516",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 215.2107
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6529",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 124.67400000000002
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6568",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 545.2260000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6569",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 876.07
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6574",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 167.42
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6635",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 1052.7920000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6642",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 428.1032000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6669",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 115.785
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6670",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 3.4303500000000002
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6672",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 112.3121
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6683",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 549.952
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6686",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 2.08082
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6692",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 1.1423999999999999
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6704",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 344.1924
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6741",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 535.4707000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6754",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 142.8976
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6787",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 499.68
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6791",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 849.1
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6804",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 656.7608
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6805",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 501.97
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6805",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 184.07
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6824",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 663.1459
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6832",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 5.81336
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6838",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 508.06800000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6855",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 6.733500000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6859",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 5.10895
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6870",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 996.892
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6895",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 6.622
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6898",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 583.71
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6907",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 6.96003
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6912",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 37.980000000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6949",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 0.57239
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6960",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 894.205
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6967",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 541.827
+  },
+  {
+    "USER_ID_MASKED": "XXXX-6986",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 422.17
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7025",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 698.8199999999999
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7064",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 529.29
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7103",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 603.0469
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7106",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 398.81399999999996
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7152",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 132.6131
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7180",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 6.727
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7218",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 700.964
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7231",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 484.5525
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7240",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 417.55
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7278",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 295.1551
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7312",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 1025.2
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7317",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 156.69
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7325",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 173.65060000000003
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7360",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 119.964
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7366",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 393.3704
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7369",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 4.5731
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7372",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 618.285
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7394",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 787.391
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7425",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 333.6225
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7437",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 1070.8490000000002
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7446",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 1148.277
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7456",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 498.2925
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7487",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 4.54377
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7500",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 467.532
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7528",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 5.83401
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7545",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 1.5407
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7559",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 364.0
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7559",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 591.92
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7578",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 5.73146
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7630",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 340.041
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7666",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 762.9710000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7670",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 363.6224
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7679",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 281.115
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7693",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 51.33
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7701",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 591.09
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7707",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 302.432
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7751",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 408.254
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7789",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 109.2502
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7804",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 118.64999999999999
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7841",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 5.78697
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7843",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 1061.0990000000002
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7848",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 708.57
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7904",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 457.45590000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7909",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 5.24503
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7909",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 153.22166
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7918",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 1.12161
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7919",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 65.364
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7941",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 7.343200000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7944",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 719.83
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7984",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 171.13199999999998
+  },
+  {
+    "USER_ID_MASKED": "XXXX-7989",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 519.4443
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8007",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 926.75
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8015",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 426.55600000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8054",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 611.171
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8070",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 1040.663
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8079",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 632.0250000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8100",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 0.39557
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8109",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 421.83099000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8115",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 2.23692
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8116",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 614.13
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8137",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 407.14300000000003
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8163",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 138.93120000000002
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8169",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 541.288
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8234",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 410.4018
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8236",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 785.187
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8269",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 159.566
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8274",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 489.645
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8281",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 735.488
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8320",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 356.759
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8323",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 204.226
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8369",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 81.16900000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8380",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 802.5440000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8381",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 615.2543000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8388",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 174.9638
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8406",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 403.1055
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8414",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 0.49938000000000005
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8422",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 2.0862800000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8429",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 301.0444
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8448",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 292.9039
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8451",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 0.29414
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8455",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 380.1446
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8456",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 796.378
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8477",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 325.97249999999997
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8480",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 286.21
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8498",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 41.21
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8519",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 510.09780000000006
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8524",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 391.974
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8558",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 2.97822
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8567",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 375.973
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8575",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 851.9830000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8589",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 248.54
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8624",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 617.8725000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8666",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 6.92657
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8667",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 191.57999999999998
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8673",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 626.6925
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8697",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 662.6501000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8709",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 35.563
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8738",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 766.1160000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8740",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 0.27363000000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8746",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 815.5550000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8753",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 425.95250000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8753",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 190.74
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8798",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 897.78
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8812",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 795.5640000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8841",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 15.136000000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8848",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 551.4033000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8865",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 554.6840000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8871",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 523.71
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8874",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 4.10109
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8901",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 3.2172
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8928",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 471.32800000000003
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8938",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 415.9425
+  },
+  {
+    "USER_ID_MASKED": "XXXX-8975",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 1041.469
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9042",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 292.786
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9069",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 126.48750000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9071",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 322.4625
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9078",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 245.1128
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9090",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 46.4325
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9092",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 614.1975
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9096",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 15.249200000000002
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9119",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 1039.005
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9139",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 1123.1480000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9141",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 182.64200000000002
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9142",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 122.93830000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9147",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 2.7788600000000003
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9240",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 585.705
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9274",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 976.93
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9284",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 2.72741
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9316",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 576.3450000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9334",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 342.75800000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9350",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 492.272
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9368",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 503.21690000000007
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9370",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 119.951
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9374",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 5.8956100000000005
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9383",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 810.81
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9387",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 1245.4
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9389",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 281.32
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9423",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 83.304
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9493",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 951.795
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9534",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 0.20293
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9547",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 457.37
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9549",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 672.75
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9554",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 58.318
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9560",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 4.99443
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9563",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 1167.998
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9579",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 2.0923700000000003
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9587",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 2.87679
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9599",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 601.51
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9670",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 12.5022
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9692",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 4.24291
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9734",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 630.86
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9745",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 1274.91
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9755",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 787.5340000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9765",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 329.78249999999997
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9773",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 296.84200000000004
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9800",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 549.4536
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9807",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 1100.333
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9813",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 444.411
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9816",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 4.48756
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9817",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 356.18000000000006
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9876",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 365.61
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9879",
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 599.2909999999999
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9895",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 279.3833
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9919",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 0.9335200000000001
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9925",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 327.74300000000005
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9941",
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 136.92120000000003
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9954",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 5.33841
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9982",
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 415.71
+  },
+  {
+    "USER_ID_MASKED": "XXXX-9997",
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 397.24300000000005
+  }
+]

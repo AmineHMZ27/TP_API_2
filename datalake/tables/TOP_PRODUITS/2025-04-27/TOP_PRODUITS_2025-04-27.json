@@ -1,0 +1,2602 @@
+[
+  {
+    "PRODUCT_ID": "PROD-102",
+    "TOTAL_QUANTITY": 23
+  },
+  {
+    "PRODUCT_ID": "PROD-103",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-104",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-105",
+    "TOTAL_QUANTITY": 13
+  },
+  {
+    "PRODUCT_ID": "PROD-106",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-108",
+    "TOTAL_QUANTITY": 12
+  },
+  {
+    "PRODUCT_ID": "PROD-110",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-111",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-113",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-114",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-116",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-118",
+    "TOTAL_QUANTITY": 21
+  },
+  {
+    "PRODUCT_ID": "PROD-119",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-121",
+    "TOTAL_QUANTITY": 13
+  },
+  {
+    "PRODUCT_ID": "PROD-122",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-124",
+    "TOTAL_QUANTITY": 12
+  },
+  {
+    "PRODUCT_ID": "PROD-125",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-126",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-127",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-130",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-132",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-133",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-134",
+    "TOTAL_QUANTITY": 20
+  },
+  {
+    "PRODUCT_ID": "PROD-135",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-136",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-137",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-138",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-139",
+    "TOTAL_QUANTITY": 17
+  },
+  {
+    "PRODUCT_ID": "PROD-140",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-144",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-145",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-146",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-149",
+    "TOTAL_QUANTITY": 23
+  },
+  {
+    "PRODUCT_ID": "PROD-151",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-152",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-153",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-154",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-156",
+    "TOTAL_QUANTITY": 17
+  },
+  {
+    "PRODUCT_ID": "PROD-158",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-162",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-163",
+    "TOTAL_QUANTITY": 30
+  },
+  {
+    "PRODUCT_ID": "PROD-164",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-165",
+    "TOTAL_QUANTITY": 20
+  },
+  {
+    "PRODUCT_ID": "PROD-166",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-167",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-169",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-173",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-175",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-177",
+    "TOTAL_QUANTITY": 18
+  },
+  {
+    "PRODUCT_ID": "PROD-178",
+    "TOTAL_QUANTITY": 19
+  },
+  {
+    "PRODUCT_ID": "PROD-179",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-180",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-181",
+    "TOTAL_QUANTITY": 20
+  },
+  {
+    "PRODUCT_ID": "PROD-182",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-183",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-184",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-185",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-186",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-187",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-188",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-189",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-190",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-191",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-192",
+    "TOTAL_QUANTITY": 18
+  },
+  {
+    "PRODUCT_ID": "PROD-193",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-194",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-196",
+    "TOTAL_QUANTITY": 20
+  },
+  {
+    "PRODUCT_ID": "PROD-199",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-200",
+    "TOTAL_QUANTITY": 16
+  },
+  {
+    "PRODUCT_ID": "PROD-201",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-202",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-204",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-205",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-206",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-207",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-208",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-209",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-211",
+    "TOTAL_QUANTITY": 22
+  },
+  {
+    "PRODUCT_ID": "PROD-212",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-213",
+    "TOTAL_QUANTITY": 13
+  },
+  {
+    "PRODUCT_ID": "PROD-214",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-215",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-216",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-217",
+    "TOTAL_QUANTITY": 16
+  },
+  {
+    "PRODUCT_ID": "PROD-218",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-219",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-220",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-221",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-223",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-224",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-225",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-226",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-228",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-230",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-232",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-233",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-237",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-238",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-240",
+    "TOTAL_QUANTITY": 15
+  },
+  {
+    "PRODUCT_ID": "PROD-241",
+    "TOTAL_QUANTITY": 21
+  },
+  {
+    "PRODUCT_ID": "PROD-242",
+    "TOTAL_QUANTITY": 13
+  },
+  {
+    "PRODUCT_ID": "PROD-243",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-247",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-248",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-249",
+    "TOTAL_QUANTITY": 27
+  },
+  {
+    "PRODUCT_ID": "PROD-250",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-251",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-252",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-253",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-254",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-255",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-257",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-260",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-261",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-262",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-264",
+    "TOTAL_QUANTITY": 19
+  },
+  {
+    "PRODUCT_ID": "PROD-265",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-267",
+    "TOTAL_QUANTITY": 12
+  },
+  {
+    "PRODUCT_ID": "PROD-268",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-269",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-270",
+    "TOTAL_QUANTITY": 15
+  },
+  {
+    "PRODUCT_ID": "PROD-271",
+    "TOTAL_QUANTITY": 15
+  },
+  {
+    "PRODUCT_ID": "PROD-272",
+    "TOTAL_QUANTITY": 23
+  },
+  {
+    "PRODUCT_ID": "PROD-275",
+    "TOTAL_QUANTITY": 12
+  },
+  {
+    "PRODUCT_ID": "PROD-276",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-277",
+    "TOTAL_QUANTITY": 21
+  },
+  {
+    "PRODUCT_ID": "PROD-278",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-279",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-280",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-282",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-284",
+    "TOTAL_QUANTITY": 21
+  },
+  {
+    "PRODUCT_ID": "PROD-286",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-287",
+    "TOTAL_QUANTITY": 29
+  },
+  {
+    "PRODUCT_ID": "PROD-288",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-289",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-291",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-292",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-293",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-294",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-295",
+    "TOTAL_QUANTITY": 19
+  },
+  {
+    "PRODUCT_ID": "PROD-296",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-298",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-299",
+    "TOTAL_QUANTITY": 33
+  },
+  {
+    "PRODUCT_ID": "PROD-300",
+    "TOTAL_QUANTITY": 29
+  },
+  {
+    "PRODUCT_ID": "PROD-301",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-302",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-303",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-304",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-305",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-308",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-309",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-311",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-312",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-314",
+    "TOTAL_QUANTITY": 17
+  },
+  {
+    "PRODUCT_ID": "PROD-315",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-316",
+    "TOTAL_QUANTITY": 13
+  },
+  {
+    "PRODUCT_ID": "PROD-319",
+    "TOTAL_QUANTITY": 24
+  },
+  {
+    "PRODUCT_ID": "PROD-320",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-321",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-322",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-323",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-324",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-325",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-326",
+    "TOTAL_QUANTITY": 12
+  },
+  {
+    "PRODUCT_ID": "PROD-327",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-328",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-329",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-330",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-331",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-332",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-333",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-334",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-336",
+    "TOTAL_QUANTITY": 13
+  },
+  {
+    "PRODUCT_ID": "PROD-337",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-338",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-339",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-340",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-341",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-342",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-343",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-344",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-345",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-346",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-347",
+    "TOTAL_QUANTITY": 12
+  },
+  {
+    "PRODUCT_ID": "PROD-348",
+    "TOTAL_QUANTITY": 18
+  },
+  {
+    "PRODUCT_ID": "PROD-350",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-351",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-353",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-354",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-356",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-357",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-358",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-360",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-361",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-362",
+    "TOTAL_QUANTITY": 21
+  },
+  {
+    "PRODUCT_ID": "PROD-363",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-364",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-365",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-366",
+    "TOTAL_QUANTITY": 16
+  },
+  {
+    "PRODUCT_ID": "PROD-368",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-369",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-371",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-372",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-373",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-374",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-375",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-376",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-377",
+    "TOTAL_QUANTITY": 13
+  },
+  {
+    "PRODUCT_ID": "PROD-378",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-380",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-381",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-383",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-386",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-387",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-390",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-391",
+    "TOTAL_QUANTITY": 18
+  },
+  {
+    "PRODUCT_ID": "PROD-392",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-393",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-394",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-396",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-397",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-399",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-400",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-403",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-405",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-408",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-410",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-413",
+    "TOTAL_QUANTITY": 16
+  },
+  {
+    "PRODUCT_ID": "PROD-414",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-416",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-418",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-419",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-420",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-421",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-422",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-424",
+    "TOTAL_QUANTITY": 13
+  },
+  {
+    "PRODUCT_ID": "PROD-427",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-428",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-429",
+    "TOTAL_QUANTITY": 16
+  },
+  {
+    "PRODUCT_ID": "PROD-430",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-431",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-432",
+    "TOTAL_QUANTITY": 20
+  },
+  {
+    "PRODUCT_ID": "PROD-434",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-435",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-436",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-438",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-439",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-440",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-441",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-442",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-444",
+    "TOTAL_QUANTITY": 20
+  },
+  {
+    "PRODUCT_ID": "PROD-445",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-446",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-448",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-449",
+    "TOTAL_QUANTITY": 18
+  },
+  {
+    "PRODUCT_ID": "PROD-450",
+    "TOTAL_QUANTITY": 20
+  },
+  {
+    "PRODUCT_ID": "PROD-453",
+    "TOTAL_QUANTITY": 16
+  },
+  {
+    "PRODUCT_ID": "PROD-454",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-455",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-457",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-458",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-459",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-462",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-463",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-465",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-466",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-467",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-468",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-470",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-471",
+    "TOTAL_QUANTITY": 22
+  },
+  {
+    "PRODUCT_ID": "PROD-472",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-477",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-478",
+    "TOTAL_QUANTITY": 13
+  },
+  {
+    "PRODUCT_ID": "PROD-479",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-480",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-482",
+    "TOTAL_QUANTITY": 18
+  },
+  {
+    "PRODUCT_ID": "PROD-484",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-485",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-487",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-489",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-490",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-491",
+    "TOTAL_QUANTITY": 16
+  },
+  {
+    "PRODUCT_ID": "PROD-493",
+    "TOTAL_QUANTITY": 15
+  },
+  {
+    "PRODUCT_ID": "PROD-494",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-496",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-497",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-500",
+    "TOTAL_QUANTITY": 31
+  },
+  {
+    "PRODUCT_ID": "PROD-501",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-503",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-504",
+    "TOTAL_QUANTITY": 17
+  },
+  {
+    "PRODUCT_ID": "PROD-505",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-507",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-508",
+    "TOTAL_QUANTITY": 19
+  },
+  {
+    "PRODUCT_ID": "PROD-509",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-510",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-512",
+    "TOTAL_QUANTITY": 20
+  },
+  {
+    "PRODUCT_ID": "PROD-513",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-514",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-516",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-517",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-518",
+    "TOTAL_QUANTITY": 16
+  },
+  {
+    "PRODUCT_ID": "PROD-520",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-521",
+    "TOTAL_QUANTITY": 12
+  },
+  {
+    "PRODUCT_ID": "PROD-523",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-524",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-525",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-526",
+    "TOTAL_QUANTITY": 12
+  },
+  {
+    "PRODUCT_ID": "PROD-528",
+    "TOTAL_QUANTITY": 23
+  },
+  {
+    "PRODUCT_ID": "PROD-529",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-530",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-531",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-532",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-534",
+    "TOTAL_QUANTITY": 12
+  },
+  {
+    "PRODUCT_ID": "PROD-535",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-538",
+    "TOTAL_QUANTITY": 13
+  },
+  {
+    "PRODUCT_ID": "PROD-539",
+    "TOTAL_QUANTITY": 27
+  },
+  {
+    "PRODUCT_ID": "PROD-540",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-541",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-542",
+    "TOTAL_QUANTITY": 19
+  },
+  {
+    "PRODUCT_ID": "PROD-546",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-547",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-548",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-549",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-550",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-552",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-553",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-557",
+    "TOTAL_QUANTITY": 16
+  },
+  {
+    "PRODUCT_ID": "PROD-558",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-559",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-560",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-561",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-562",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-564",
+    "TOTAL_QUANTITY": 15
+  },
+  {
+    "PRODUCT_ID": "PROD-565",
+    "TOTAL_QUANTITY": 15
+  },
+  {
+    "PRODUCT_ID": "PROD-566",
+    "TOTAL_QUANTITY": 26
+  },
+  {
+    "PRODUCT_ID": "PROD-568",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-569",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-570",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-571",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-573",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-574",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-575",
+    "TOTAL_QUANTITY": 20
+  },
+  {
+    "PRODUCT_ID": "PROD-576",
+    "TOTAL_QUANTITY": 18
+  },
+  {
+    "PRODUCT_ID": "PROD-577",
+    "TOTAL_QUANTITY": 16
+  },
+  {
+    "PRODUCT_ID": "PROD-578",
+    "TOTAL_QUANTITY": 13
+  },
+  {
+    "PRODUCT_ID": "PROD-579",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-581",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-582",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-583",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-584",
+    "TOTAL_QUANTITY": 12
+  },
+  {
+    "PRODUCT_ID": "PROD-586",
+    "TOTAL_QUANTITY": 13
+  },
+  {
+    "PRODUCT_ID": "PROD-587",
+    "TOTAL_QUANTITY": 17
+  },
+  {
+    "PRODUCT_ID": "PROD-588",
+    "TOTAL_QUANTITY": 15
+  },
+  {
+    "PRODUCT_ID": "PROD-589",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-590",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-591",
+    "TOTAL_QUANTITY": 22
+  },
+  {
+    "PRODUCT_ID": "PROD-592",
+    "TOTAL_QUANTITY": 21
+  },
+  {
+    "PRODUCT_ID": "PROD-593",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-594",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-595",
+    "TOTAL_QUANTITY": 13
+  },
+  {
+    "PRODUCT_ID": "PROD-597",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-598",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-599",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-600",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-601",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-602",
+    "TOTAL_QUANTITY": 22
+  },
+  {
+    "PRODUCT_ID": "PROD-603",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-604",
+    "TOTAL_QUANTITY": 15
+  },
+  {
+    "PRODUCT_ID": "PROD-605",
+    "TOTAL_QUANTITY": 31
+  },
+  {
+    "PRODUCT_ID": "PROD-606",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-608",
+    "TOTAL_QUANTITY": 15
+  },
+  {
+    "PRODUCT_ID": "PROD-611",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-612",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-613",
+    "TOTAL_QUANTITY": 13
+  },
+  {
+    "PRODUCT_ID": "PROD-614",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-616",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-618",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-619",
+    "TOTAL_QUANTITY": 24
+  },
+  {
+    "PRODUCT_ID": "PROD-621",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-622",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-623",
+    "TOTAL_QUANTITY": 27
+  },
+  {
+    "PRODUCT_ID": "PROD-624",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-625",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-626",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-627",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-628",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-629",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-630",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-632",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-634",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-635",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-636",
+    "TOTAL_QUANTITY": 18
+  },
+  {
+    "PRODUCT_ID": "PROD-638",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-639",
+    "TOTAL_QUANTITY": 12
+  },
+  {
+    "PRODUCT_ID": "PROD-640",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-643",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-644",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-645",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-646",
+    "TOTAL_QUANTITY": 13
+  },
+  {
+    "PRODUCT_ID": "PROD-647",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-648",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-649",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-651",
+    "TOTAL_QUANTITY": 29
+  },
+  {
+    "PRODUCT_ID": "PROD-654",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-656",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-657",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-659",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-661",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-662",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-663",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-666",
+    "TOTAL_QUANTITY": 31
+  },
+  {
+    "PRODUCT_ID": "PROD-667",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-668",
+    "TOTAL_QUANTITY": 18
+  },
+  {
+    "PRODUCT_ID": "PROD-669",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-671",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-672",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-674",
+    "TOTAL_QUANTITY": 13
+  },
+  {
+    "PRODUCT_ID": "PROD-675",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-677",
+    "TOTAL_QUANTITY": 23
+  },
+  {
+    "PRODUCT_ID": "PROD-679",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-680",
+    "TOTAL_QUANTITY": 24
+  },
+  {
+    "PRODUCT_ID": "PROD-681",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-684",
+    "TOTAL_QUANTITY": 13
+  },
+  {
+    "PRODUCT_ID": "PROD-685",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-686",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-687",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-688",
+    "TOTAL_QUANTITY": 16
+  },
+  {
+    "PRODUCT_ID": "PROD-689",
+    "TOTAL_QUANTITY": 18
+  },
+  {
+    "PRODUCT_ID": "PROD-690",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-693",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-694",
+    "TOTAL_QUANTITY": 15
+  },
+  {
+    "PRODUCT_ID": "PROD-695",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-696",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-698",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-699",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-700",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-701",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-702",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-703",
+    "TOTAL_QUANTITY": 17
+  },
+  {
+    "PRODUCT_ID": "PROD-706",
+    "TOTAL_QUANTITY": 16
+  },
+  {
+    "PRODUCT_ID": "PROD-707",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-708",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-710",
+    "TOTAL_QUANTITY": 12
+  },
+  {
+    "PRODUCT_ID": "PROD-711",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-712",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-713",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-715",
+    "TOTAL_QUANTITY": 12
+  },
+  {
+    "PRODUCT_ID": "PROD-716",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-717",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-718",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-721",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-722",
+    "TOTAL_QUANTITY": 22
+  },
+  {
+    "PRODUCT_ID": "PROD-726",
+    "TOTAL_QUANTITY": 13
+  },
+  {
+    "PRODUCT_ID": "PROD-727",
+    "TOTAL_QUANTITY": 19
+  },
+  {
+    "PRODUCT_ID": "PROD-728",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-729",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-730",
+    "TOTAL_QUANTITY": 13
+  },
+  {
+    "PRODUCT_ID": "PROD-731",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-734",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-735",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-736",
+    "TOTAL_QUANTITY": 17
+  },
+  {
+    "PRODUCT_ID": "PROD-737",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-738",
+    "TOTAL_QUANTITY": 17
+  },
+  {
+    "PRODUCT_ID": "PROD-739",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-741",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-742",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-743",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-745",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-746",
+    "TOTAL_QUANTITY": 22
+  },
+  {
+    "PRODUCT_ID": "PROD-747",
+    "TOTAL_QUANTITY": 23
+  },
+  {
+    "PRODUCT_ID": "PROD-748",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-751",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-752",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-754",
+    "TOTAL_QUANTITY": 12
+  },
+  {
+    "PRODUCT_ID": "PROD-755",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-758",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-759",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-760",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-762",
+    "TOTAL_QUANTITY": 16
+  },
+  {
+    "PRODUCT_ID": "PROD-763",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-767",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-768",
+    "TOTAL_QUANTITY": 16
+  },
+  {
+    "PRODUCT_ID": "PROD-769",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-770",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-771",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-772",
+    "TOTAL_QUANTITY": 23
+  },
+  {
+    "PRODUCT_ID": "PROD-773",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-774",
+    "TOTAL_QUANTITY": 23
+  },
+  {
+    "PRODUCT_ID": "PROD-775",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-778",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-779",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-781",
+    "TOTAL_QUANTITY": 40
+  },
+  {
+    "PRODUCT_ID": "PROD-783",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-786",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-787",
+    "TOTAL_QUANTITY": 15
+  },
+  {
+    "PRODUCT_ID": "PROD-788",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-789",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-790",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-791",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-792",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-795",
+    "TOTAL_QUANTITY": 16
+  },
+  {
+    "PRODUCT_ID": "PROD-796",
+    "TOTAL_QUANTITY": 15
+  },
+  {
+    "PRODUCT_ID": "PROD-797",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-799",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-800",
+    "TOTAL_QUANTITY": 15
+  },
+  {
+    "PRODUCT_ID": "PROD-801",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-802",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-803",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-804",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-805",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-806",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-807",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-811",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-813",
+    "TOTAL_QUANTITY": 21
+  },
+  {
+    "PRODUCT_ID": "PROD-816",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-818",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-819",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-820",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-821",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-822",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-823",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-827",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-828",
+    "TOTAL_QUANTITY": 16
+  },
+  {
+    "PRODUCT_ID": "PROD-831",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-832",
+    "TOTAL_QUANTITY": 31
+  },
+  {
+    "PRODUCT_ID": "PROD-835",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-838",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-841",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-842",
+    "TOTAL_QUANTITY": 13
+  },
+  {
+    "PRODUCT_ID": "PROD-843",
+    "TOTAL_QUANTITY": 12
+  },
+  {
+    "PRODUCT_ID": "PROD-845",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-847",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-848",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-849",
+    "TOTAL_QUANTITY": 12
+  },
+  {
+    "PRODUCT_ID": "PROD-850",
+    "TOTAL_QUANTITY": 17
+  },
+  {
+    "PRODUCT_ID": "PROD-854",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-855",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-856",
+    "TOTAL_QUANTITY": 23
+  },
+  {
+    "PRODUCT_ID": "PROD-857",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-858",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-859",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-862",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-863",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-865",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-867",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-869",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-870",
+    "TOTAL_QUANTITY": 21
+  },
+  {
+    "PRODUCT_ID": "PROD-871",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-873",
+    "TOTAL_QUANTITY": 15
+  },
+  {
+    "PRODUCT_ID": "PROD-874",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-875",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-876",
+    "TOTAL_QUANTITY": 19
+  },
+  {
+    "PRODUCT_ID": "PROD-877",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-878",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-879",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-880",
+    "TOTAL_QUANTITY": 12
+  },
+  {
+    "PRODUCT_ID": "PROD-881",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-882",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-884",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-885",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-886",
+    "TOTAL_QUANTITY": 16
+  },
+  {
+    "PRODUCT_ID": "PROD-887",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-888",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-890",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-893",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-895",
+    "TOTAL_QUANTITY": 15
+  },
+  {
+    "PRODUCT_ID": "PROD-896",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-897",
+    "TOTAL_QUANTITY": 17
+  },
+  {
+    "PRODUCT_ID": "PROD-898",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-899",
+    "TOTAL_QUANTITY": 1
+  },
+  {
+    "PRODUCT_ID": "PROD-900",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-901",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-902",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-903",
+    "TOTAL_QUANTITY": 13
+  },
+  {
+    "PRODUCT_ID": "PROD-904",
+    "TOTAL_QUANTITY": 15
+  },
+  {
+    "PRODUCT_ID": "PROD-905",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-907",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-908",
+    "TOTAL_QUANTITY": 23
+  },
+  {
+    "PRODUCT_ID": "PROD-909",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-910",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-911",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-914",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-915",
+    "TOTAL_QUANTITY": 23
+  },
+  {
+    "PRODUCT_ID": "PROD-916",
+    "TOTAL_QUANTITY": 15
+  },
+  {
+    "PRODUCT_ID": "PROD-918",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-919",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-920",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-922",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-923",
+    "TOTAL_QUANTITY": 18
+  },
+  {
+    "PRODUCT_ID": "PROD-924",
+    "TOTAL_QUANTITY": 16
+  },
+  {
+    "PRODUCT_ID": "PROD-925",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-926",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-927",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-928",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-929",
+    "TOTAL_QUANTITY": 12
+  },
+  {
+    "PRODUCT_ID": "PROD-930",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-931",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-932",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-933",
+    "TOTAL_QUANTITY": 16
+  },
+  {
+    "PRODUCT_ID": "PROD-934",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-935",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-936",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-937",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-938",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-939",
+    "TOTAL_QUANTITY": 24
+  },
+  {
+    "PRODUCT_ID": "PROD-940",
+    "TOTAL_QUANTITY": 13
+  },
+  {
+    "PRODUCT_ID": "PROD-941",
+    "TOTAL_QUANTITY": 12
+  },
+  {
+    "PRODUCT_ID": "PROD-942",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-943",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-944",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-945",
+    "TOTAL_QUANTITY": 15
+  },
+  {
+    "PRODUCT_ID": "PROD-946",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-947",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-948",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-950",
+    "TOTAL_QUANTITY": 4
+  },
+  {
+    "PRODUCT_ID": "PROD-951",
+    "TOTAL_QUANTITY": 16
+  },
+  {
+    "PRODUCT_ID": "PROD-952",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-953",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-954",
+    "TOTAL_QUANTITY": 16
+  },
+  {
+    "PRODUCT_ID": "PROD-955",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-956",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-957",
+    "TOTAL_QUANTITY": 32
+  },
+  {
+    "PRODUCT_ID": "PROD-958",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-960",
+    "TOTAL_QUANTITY": 18
+  },
+  {
+    "PRODUCT_ID": "PROD-961",
+    "TOTAL_QUANTITY": 10
+  },
+  {
+    "PRODUCT_ID": "PROD-962",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-964",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-965",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-967",
+    "TOTAL_QUANTITY": 19
+  },
+  {
+    "PRODUCT_ID": "PROD-969",
+    "TOTAL_QUANTITY": 28
+  },
+  {
+    "PRODUCT_ID": "PROD-971",
+    "TOTAL_QUANTITY": 21
+  },
+  {
+    "PRODUCT_ID": "PROD-973",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-976",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-978",
+    "TOTAL_QUANTITY": 9
+  },
+  {
+    "PRODUCT_ID": "PROD-979",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-980",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-981",
+    "TOTAL_QUANTITY": 5
+  },
+  {
+    "PRODUCT_ID": "PROD-982",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-984",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-985",
+    "TOTAL_QUANTITY": 6
+  },
+  {
+    "PRODUCT_ID": "PROD-987",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-988",
+    "TOTAL_QUANTITY": 7
+  },
+  {
+    "PRODUCT_ID": "PROD-990",
+    "TOTAL_QUANTITY": 11
+  },
+  {
+    "PRODUCT_ID": "PROD-991",
+    "TOTAL_QUANTITY": 8
+  },
+  {
+    "PRODUCT_ID": "PROD-992",
+    "TOTAL_QUANTITY": 17
+  },
+  {
+    "PRODUCT_ID": "PROD-993",
+    "TOTAL_QUANTITY": 2
+  },
+  {
+    "PRODUCT_ID": "PROD-994",
+    "TOTAL_QUANTITY": 14
+  },
+  {
+    "PRODUCT_ID": "PROD-997",
+    "TOTAL_QUANTITY": 3
+  },
+  {
+    "PRODUCT_ID": "PROD-998",
+    "TOTAL_QUANTITY": 29
+  },
+  {
+    "PRODUCT_ID": "PROD-999",
+    "TOTAL_QUANTITY": 5
+  }
+]

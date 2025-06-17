@@ -1,0 +1,87 @@
+{
+    "@type": "tables",
+    "statementText": "SHOW tables;",
+    "tables": [
+        {
+            "type": "TABLE",
+            "name": "TOTAL_PAR_TRANSACTION_TYPE",
+            "topic": "TOTAL_PAR_TRANSACTION_TYPE",
+            "keyFormat": "KAFKA",
+            "valueFormat": "JSON",
+            "isWindowed": false
+        },
+        {
+            "type": "TABLE",
+            "name": "AVG_TRANSACTIONS_700",
+            "topic": "AVG_TRANSACTIONS_700",
+            "keyFormat": "KAFKA",
+            "valueFormat": "JSON",
+            "isWindowed": false
+        },
+        {
+            "type": "TABLE",
+            "name": "TMP_700",
+            "topic": "TMP_700",
+            "keyFormat": "KAFKA",
+            "valueFormat": "JSON",
+            "isWindowed": false
+        },
+        {
+            "type": "TABLE",
+            "name": "TRANSACTION_WINDOW_ANALYSIS",
+            "topic": "TRANSACTION_WINDOW_ANALYSIS",
+            "keyFormat": "KAFKA",
+            "valueFormat": "JSON",
+            "isWindowed": true
+        },
+        {
+            "type": "TABLE",
+            "name": "TMP_700_TYPE",
+            "topic": "TMP_700_TYPE",
+            "keyFormat": "KAFKA",
+            "valueFormat": "JSON",
+            "isWindowed": false
+        },
+        {
+            "type": "TABLE",
+            "name": "TOTAL_PAR_METHODE_PAIEMENT",
+            "topic": "TOTAL_PAR_METHODE_PAIEMENT",
+            "keyFormat": "KAFKA",
+            "valueFormat": "JSON",
+            "isWindowed": false
+        },
+        {
+            "type": "TABLE",
+            "name": "TOP_PRODUITS",
+            "topic": "TOP_PRODUITS",
+            "keyFormat": "KAFKA",
+            "valueFormat": "JSON",
+            "isWindowed": false
+        },
+        {
+            "type": "TABLE",
+            "name": "STATUS_TRACKER_TRANSACTIONS",
+            "topic": "STATUS_TRACKER_TRANSACTIONS",
+            "keyFormat": "KAFKA",
+            "valueFormat": "JSON",
+            "isWindowed": false
+        },
+        {
+            "type": "TABLE",
+            "name": "TRANSACTION_STATUS_TRACKER",
+            "topic": "TRANSACTION_STATUS_TRACKER",
+            "keyFormat": "KAFKA",
+            "valueFormat": "JSON",
+            "isWindowed": false
+        },
+        {
+            "type": "TABLE",
+            "name": "TOTAL_SPENT_USD_BY_USER_AND_TYPE",
+            "topic": "TOTAL_SPENT_USD_BY_USER_AND_TYPE",
+            "keyFormat": "JSON",
+            "valueFormat": "JSON",
+            "isWindowed": false
+        }
+    ],
+    "warnings": []
+}

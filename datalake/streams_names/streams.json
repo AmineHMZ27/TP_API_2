@@ -1,0 +1,14 @@
+{
+    "streams": [
+      { "name": "transactions_stream" },
+      { "name": "transactions_flat" },
+      { "name": "transactions_pending" },
+      { "name": "transactions_processing" },
+      { "name": "transactions_cancelled" },
+      { "name": "transactions_failed" },
+      { "name": "transactions_completed" },
+      { "name": "transactions_blacklisted" },
+      { "name": "user_feedback" },
+      { "name": "transactions_transformed" }
+    ]
+  }

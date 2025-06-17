@@ -1,0 +1,18 @@
+[
+  {
+    "TRANSACTION_TYPE": "payment",
+    "TOTAL_AMOUNT": 182810.13999999998
+  },
+  {
+    "TRANSACTION_TYPE": "purchase",
+    "TOTAL_AMOUNT": 206180.40000000008
+  },
+  {
+    "TRANSACTION_TYPE": "refund",
+    "TOTAL_AMOUNT": 180404.84000000005
+  },
+  {
+    "TRANSACTION_TYPE": "withdrawal",
+    "TOTAL_AMOUNT": 191242.92000000007
+  }
+]

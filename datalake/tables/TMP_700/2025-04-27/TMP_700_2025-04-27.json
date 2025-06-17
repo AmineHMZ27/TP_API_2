@@ -1,0 +1,18 @@
+[
+  {
+    "TRANSACTION_TYPE": "payment",
+    "C": 96
+  },
+  {
+    "TRANSACTION_TYPE": "purchase",
+    "C": 135
+  },
+  {
+    "TRANSACTION_TYPE": "refund",
+    "C": 97
+  },
+  {
+    "TRANSACTION_TYPE": "withdrawal",
+    "C": 116
+  }
+]

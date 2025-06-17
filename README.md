@@ -50,6 +50,6 @@ Endpoint	Rôle
 
 La documentation interactive est disponible à : http://localhost:8000/swagger/
 
-👤 Auteur·rice
+👤 Auteur
 
-Projet développé pour le TP API 2 du Master Data Engineering.
+Projet développé pour le TP API 2 du Master Data Engineering par Amine Hamzaoui
